@@ -6,3 +6,5 @@ CMakeSettings.json
 out/
 .vs/
 *.vcxproj*
+bin-int
+bin
